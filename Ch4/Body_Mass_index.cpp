@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    float weight,height,bmi;
+    long double weight,height,bmi;
     cout<<"Enter Your Weight (in Kilograms): ";cin>>weight;
     cout<<"Enter Your Height (in Meters): ";cin>>height;
     bmi=weight/(height*height);
@@ -23,11 +23,11 @@ int main()
     {
         cout<<"Ideal";
     }
-    else if (bmi>=25 && bmi<=25.9)
+    else if (bmi>=25 && bmi<=29.9)
     {
         cout<<"Overerweight";
     }
-    else if (bmi>=30 && bmi<=30.9)
+    else if (bmi>=30 && bmi<=39.9)
     {
         cout<<"Obese";
     }

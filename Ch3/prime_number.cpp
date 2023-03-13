@@ -11,9 +11,11 @@ int main()
         }
     }
     if(count==2){
+    	cout<<"Root: "<<count<<endl;
         cout<<"prime";
     }
     else{
+    	cout<<"Root: "<<count<<endl;
         cout<<"not prime";
     }
     
