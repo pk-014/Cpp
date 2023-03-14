@@ -2,10 +2,15 @@
 using namespace std;
 int main()
 {
+    
     char rerun;
 
 do
 {
+    system("Color 70");
+	cout<<"\n\t=>Programming Fundamentals"<<endl;
+	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
+	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     int a=1;
     char alphabet='z';
     // Creating Rows=4
@@ -44,7 +49,7 @@ do
 std::cout<<"\nWant to Re-Run the Program?\n\f\'y\' for YES \t\t \'n\' for NO\n";
 std::cin>>rerun;
 system("CLS");
-}while (rerun=='y');
+}while (rerun=='y' || rerun=='Y');
 
  return 0;
 }
