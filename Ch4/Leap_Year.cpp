@@ -7,9 +7,6 @@ int main()
 do
 {
     std::system("Color 70");
-	std::cout<<"\n\t=>Programming Fundamentals"<<endl;
-	std::cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	std::cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     int year;
     cout<<"Enter Year: ";cin>>year;
     if(year%4==0)

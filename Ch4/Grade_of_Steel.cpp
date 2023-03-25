@@ -7,9 +7,6 @@ int main()
 do
 {
     std::system("Color 70");
-	std::cout<<"\n\t=>Programming Fundamentals"<<endl;
-	std::cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	std::cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     long double hn,cc,ts;
     cout<<"Enter the Hardness of steel: ";cin>>hn;
     cout<<"Enter the Carbon Content of steel: ";cin>>cc;

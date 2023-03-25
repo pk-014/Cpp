@@ -3,10 +3,6 @@
 #include<string>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     cout<<"Activity No.10"<<endl;
     cout<<"\t Write a program that take the employee name and basic salary from user. If the basic salary is less"
 	<<"\nthan or equal to 5000, then take house rent (30% of basic salary), contract allowance (45% of basic salary),"

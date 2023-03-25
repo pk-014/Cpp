@@ -1,11 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
-    cout<<"Activity No.3"<<endl;
+	cout<<"Activity No.3"<<endl;
     cout<<"\t Write a program that take two numbers from user and display the sum, difference, multiplication, \n division and remainder of the numbers on computer screen."<<endl;
 	cout<<"\n\n Solution:"<<endl<<endl<<endl;
 	int num1,num2,sum,diff,multi,division,remainder;

@@ -2,10 +2,7 @@
 #include<iomanip>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
+
     cout<<"Activity No.16"<<endl;
     cout<<"\t Write a program to compare the three numbers and display the greater number using nested-if"
 	<<"\nstatement and display the result in the below box."<<endl;

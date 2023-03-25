@@ -2,10 +2,7 @@
 #include<iomanip>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
+
     cout<<"Activity No.17"<<endl;
     cout<<"\t Write a program that take three numbers from user and display the numbers are equal or not using"<<"\nNESTED-IF statement."<<endl;
 	cout<<"\n\n Solution:"<<endl<<endl<<endl;

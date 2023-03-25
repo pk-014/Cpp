@@ -2,10 +2,6 @@
 #include<iomanip>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     cout<<"Activity No.8"<<endl;
     cout<<"\t Write a program that take two numbers from user and display the greater number using IF-Statement."<<endl;
 	cout<<"\n\n Solution:"<<endl<<endl<<endl;

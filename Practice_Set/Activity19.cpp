@@ -2,11 +2,7 @@
 #include<iomanip>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
-    cout<<"Activity No.19"<<endl;
+	    cout<<"Activity No.19"<<endl;
     cout<<"\t Write a program that take two numbers and an operator from user and display the sum, difference,"
 	<<"\nmultiplication, division and remainder using switch statement."<<endl;
 	cout<<"\n\n Solution:"<<endl<<endl<<endl;

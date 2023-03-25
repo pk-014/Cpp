@@ -2,10 +2,6 @@
 #include<iomanip>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     cout<<"Activity No.24"<<endl;
     cout<<"\t Write a program to find the factorial of any number and display the result on screen using While Loop."<<endl;
 	cout<<"\n\n Solution:"<<endl<<endl<<endl;

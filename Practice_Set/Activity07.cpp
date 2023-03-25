@@ -2,10 +2,6 @@
 #include<iomanip>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     cout<<"Activity No.7"<<endl;
     cout<<"\t Write a program that take the student name, discipline, year of admission and registration \n from user and display on the computer screen."<<endl;
 	cout<<"\n\n Solution:"<<endl<<endl<<endl;

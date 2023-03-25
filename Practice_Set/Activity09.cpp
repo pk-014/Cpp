@@ -2,10 +2,6 @@
 #include<iomanip>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     cout<<"Activity No.9"<<endl;
     cout<<"\t Write a program that take previous and current month reading from user and calculate the"<<endl
 	<<"consumed units in a month. If the consumed units are less and equal to 300, then calculate the \"electricity bill\" "<<endl

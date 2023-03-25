@@ -6,9 +6,6 @@ char rerun;
 do
 {
 system("Color 70");
-cout<<"\t\t\t=>Programming Fundamentals"<<endl;
-cout<<"\t\t\t=>Presented By: Muhammad Asad"<<endl;
-cout<<"\t\t\t=>Roll No. : BSF2201587"<<endl<<endl;
 cout<<endl;
 int rows;
 cout<<"Enter Number Of Rows: ";cin>>rows;

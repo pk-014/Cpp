@@ -8,9 +8,6 @@ int main()
 do
 {
     std::system("Color 70");
-	std::cout<<"\n\t=>Programming Fundamentals"<<endl;
-	std::cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	std::cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     float r,g,b,c,m,y,k,max,white;
     cout<<"Enter the value of \'R\': ";cin>>r;
     cout<<"Enter the value of \'G\': ";cin>>g;

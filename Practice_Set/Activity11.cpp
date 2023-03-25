@@ -2,10 +2,6 @@
 #include<iomanip>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     cout<<"Activity No.11"<<endl;
     cout<<"\t Write a program to input a number from the user. Use if-else statement to find out whether the"
 	<<"\nnumber is less than or greater than 100."<<endl;

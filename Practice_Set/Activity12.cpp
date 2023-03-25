@@ -2,11 +2,7 @@
 #include<iomanip>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
-    cout<<"Activity No.8"<<endl;
+	    cout<<"Activity No.8"<<endl;
     cout<<"\t Write a program to calculate the net pay of an employee. Input the basic pay and calculate the net pay \nas follows using IF-Else Statement:"<<endl
 	<<"(1) House rent is 45% of the basic pay."<<endl
 	<<"(2) Medical allowance is 2% of basic if basic is greater than Rs. 5000/-. It is 5% of basic pay if the pay is\nless than Rs. 5000/-."<<endl

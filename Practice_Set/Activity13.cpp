@@ -2,11 +2,7 @@
 #include<iomanip>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
-    cout<<"Activity No.13"<<endl;
+	    cout<<"Activity No.13"<<endl;
     cout<<"\t Write a program that take input marks obtained by a student in a subject. The marks of each subject is 100."
 	<<"\nFind out grade of the student by using IF-Else statement."
 	<<endl<<"\tgrade >= 85 		Grade A+" 

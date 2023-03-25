@@ -1,11 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
-    cout<<"Activity No.4"<<endl;
+	cout<<"Activity No.4"<<endl;
     cout<<"\t Write a program that take a 4-digit number from user and display the number in reverse \n order on computer screen."<<endl;
 	cout<<"\n\n Solution:"<<endl<<endl<<endl;
 	int num1,rev;

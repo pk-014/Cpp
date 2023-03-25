@@ -1,11 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
-    cout<<"Activity No.2"<<endl;
+	   cout<<"Activity No.2"<<endl;
     cout<<"\t Write a program that take the radius of a circle from user and calculate the area and circumference \n of circle and display the results on screen."<<endl;
 	cout<<"\n\n Solution:"<<endl<<endl;
 	long double radius,pi,area,circum;

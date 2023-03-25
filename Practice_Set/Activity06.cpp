@@ -2,10 +2,7 @@
 #include<iomanip>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
+	
     cout<<"Activity No.6"<<endl;
     cout<<"\t Write a program that take the roll number of the student and amount in dollar from user \n and display the roll number of the student, amount in dollar and amount in rupees on computer screen."<<endl;
 	cout<<"\n\n Solution:"<<endl<<endl<<endl;

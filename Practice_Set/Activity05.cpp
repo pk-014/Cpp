@@ -1,10 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     cout<<"Activity No.5"<<endl;
     cout<<"\t Write a program that take the temperature in Fahrenheit from user and convert it in Centigrade \n temperature using formula (C=5/9(F-32)) and display the result on computer screen"<<endl;
 	cout<<"\n\n Solution:"<<endl<<endl<<endl;

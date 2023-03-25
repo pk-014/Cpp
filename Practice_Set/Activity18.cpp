@@ -2,10 +2,6 @@
 #include<iomanip>
 using namespace std;
 int main(){
-	system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     cout<<"Activity No.18"<<endl;
     cout<<"\t Write a program that take a character from user and display whether it is vowel or not on the screen."<<endl;
 	cout<<"\n\n Solution:"<<endl<<endl<<endl;

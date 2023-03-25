@@ -9,9 +9,6 @@ do
 {
 	
     system("Color 70");
-	cout<<"\n\t=>Programming Fundamentals"<<endl;
-	cout<<"\t=>Presented By: Muhammad Asad"<<endl;
-	cout<<"\t=>Roll No. : BSF2201587"<<endl<<endl;
     int num1,num2,root,count,j,i,sum=0;
     cout<<"Enter Number1: ";cin>>num1;
     cout<<"Enter Number2: ";cin>>num2;
